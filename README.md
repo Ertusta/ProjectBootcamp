@@ -53,7 +53,14 @@ LowPoly araçlar, yapay zekaya karşı yarışmaktadır.
 
 ## Daily Scrum
 
-Daily Scrum toplantılarını discord üzerinden gerçekleştirilmesine karar verilmiştir.
+Daily Scrum toplantılarını discord üzerinden gerçekleştirilmesine karar verilmiştir. <br>
+
+Discord Ekran görüntüleri: <br>
+
+! [Birinci Resim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/01.png) <br>
+! [İkinci Resim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/02.png) <br>
+! [Üçüncü Resim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/03.png) <br>
+! [Üçüncü Resim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/04.png) <br>
 
 ## Sprint board update: Sprint board screenshotları
 
@@ -61,14 +68,14 @@ Daily Scrum toplantılarını discord üzerinden gerçekleştirilmesine karar ve
 
 Oynanış Videosu: <br>
 
+! [Oynanış Videosu] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/birinciSprint_Oynanis.mp4)
 
+Oyun Ekran görüntüleri: <br>
 
-Ekran görüntüleri: <br>
-
-! [birinciResim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/01.png) <br>
-! [birinciResim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/02.png) <br>
-! [birinciResim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/03.png) <br>
-! [birinciResim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/04.png) <br>
+! [Birinci Resim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/05.png) <br>
+! [İkinci Resim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/06.png) <br>
+! [Üçüncü Resim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/07.png) <br>
+! [Üçüncü Resim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/08.png) <br>
 
 
 ## Sprint Review
