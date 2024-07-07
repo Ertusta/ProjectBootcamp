@@ -55,7 +55,7 @@ LowPoly araçlar, yapay zekaya karşı yarışmaktadır.
 
 ### Daily Scrum
 
-Daily Scrum toplantılarını discord üzerinden gerçekleştirilmesine karar verilmiştir. <br>
+Daily Scrum toplantılarının ve bütün sürecin discord üzerinden gerçekleştirilmesine karar verilmiştir. <br>
 
 Discord Ekran görüntüleri: <br>
 
