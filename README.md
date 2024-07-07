@@ -51,31 +51,29 @@ LowPoly araçlar, yapay zekaya karşı yarışmaktadır.
 *Oyuncu kamerası hazırlandı.
 
 
-## Daily Scrum
+## Takım İçi İletişim ve Çalışmalarımız
+
+### Daily Scrum
 
 Daily Scrum toplantılarını discord üzerinden gerçekleştirilmesine karar verilmiştir. <br>
 
 Discord Ekran görüntüleri: <br>
 
-! [Birinci Resim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/01.png) <br>
-! [İkinci Resim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/02.png) <br>
-! [Üçüncü Resim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/03.png) <br>
-! [Üçüncü Resim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/04.png) <br>
-
-## Sprint board update: Sprint board screenshotları
+![Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/01.png) <br>
+![İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/02.png) <br>
+![Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/03.png) <br>
+![Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/04.png) <br>
 
 ### Ürün Durumu
 
-Oynanış Videosu: <br>
-
-! [Oynanış Videosu] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/birinciSprint_Oynanis.mp4)
+[Oynanış Videosunu İzlemek İçin Tıklayınız](https://youtu.be/kRaW8A0Vtqs)
 
 Oyun Ekran görüntüleri: <br>
 
-! [Birinci Resim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/05.png) <br>
-! [İkinci Resim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/06.png) <br>
-! [Üçüncü Resim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/07.png) <br>
-! [Üçüncü Resim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/08.png) <br>
+![Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/05.png) <br>
+![İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/06.png) <br>
+![Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/07.png) <br>
+![Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/08.png) <br>
 
 
 ## Sprint Review
