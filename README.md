@@ -57,9 +57,18 @@ Daily Scrum toplantılarını discord üzerinden gerçekleştirilmesine karar ve
 
 ## Sprint board update: Sprint board screenshotları
 
-Ürün Durumu - Ekran görüntüleri: <br>
+### Ürün Durumu
 
-! [birinciResim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/01.png)
+Oynanış Videosu: <br>
+
+
+
+Ekran görüntüleri: <br>
+
+! [birinciResim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/01.png) <br>
+! [birinciResim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/02.png) <br>
+! [birinciResim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/03.png) <br>
+! [birinciResim] (https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/04.png) <br>
 
 
 ## Sprint Review
