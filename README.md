@@ -11,10 +11,10 @@ Windows(PC)
 
 ## Takım Elemanları	ve Rolleri
 
-Ertuğrul Şahintürk	- Product Owner <br>
+Ertuğrul Şahintürk	- Product Owner/ Developer <br>
 Eren Kurman	- Scrum Master <br>
-Fazlı Kılıç	- Team Member/Developer <br>
-Gamze Karakaş	- Team Member/Developer/Level Designer <br>
+Fazlı Kılıç	- Team Member/ Developer <br>
+Gamze Karakaş	- Team Member/ Developer/ Level Designer <br>
 Gizem	Anbarcı - Team Member
 
 
@@ -31,7 +31,7 @@ Drift
 
 ## Ürün Açıklaması
 
-Oyunumuz low poly araçlarla yarış mekaniğinin birleştiği, bir araba yarışı oyunudur. farklı pist farklı araç bunu düzenle ekle
+Oyunumuz farklı low poly araçlarla yarış mekaniğinin birleştiği, farklı pistlerde gerçekleşen bir araba yarışı oyunudur.
 
 
 ## Ürün Özellikleri
@@ -58,8 +58,7 @@ Daily Scrum toplantılarını discord üzerinden gerçekleştirilmesine karar ve
 ## Sprint board update: Sprint board screenshotları
 
 Ürün Durumu - Ekran görüntüleri:
-
-[İlk Karakter Animasyonumuz] (bu araya linki koyacağız) 
+ 
 
 
 ## Sprint Review
@@ -68,8 +67,6 @@ Daily Scrum toplantılarını discord üzerinden gerçekleştirilmesine karar ve
 ### Alınan kararlar:
 
 *İlk sprintten sonra ikinci sprintin planlaması olacak. <br>
-*Menü sahnesi yapılacak
-*
 
 
 ### Sprint Retrospective
