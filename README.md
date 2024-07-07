@@ -37,7 +37,8 @@ Oyunumuz farklı low poly araçlarla yarış mekaniğinin birleştiği, farklı 
 ### Ürün Özellikleri
 
 LowPoly araçlar, yapay zekaya karşı yarışmaktadır.
-
+ <br>
+ <br>
 
 ## Sprint 1
 
@@ -49,7 +50,8 @@ LowPoly araçlar, yapay zekaya karşı yarışmaktadır.
 *Diğer araçlar ile yarış hissi kuvvetlendirildi. <br>
 *Karaker kontrolcüsü yapıldı. <br>
 *Oyuncu kamerası hazırlandı.
-
+ <br>
+ <br>
 
 ## Takım İçi İletişim ve Çalışmalarımız
 
@@ -74,7 +76,8 @@ Oyun Ekran görüntüleri: <br>
 ![İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/06.png) <br>
 ![Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/07.png) <br>
 ![Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/08.png) <br>
-
+ <br>
+ <br>
 
 ## Sprint Review
 
