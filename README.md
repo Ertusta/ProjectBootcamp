@@ -1,4 +1,4 @@
-# Oyun ve Uygulama Akademisi Bootcamp Projesi
+# Oyun ve Uygulama Akademisi Takım25 Bootcamp Projesi
 
 Takım İsmi: Takım25 <br>
 Takım - 25 "Drift"
