@@ -9,7 +9,7 @@ Takım - 25 "Drift"
 Windows(PC)
 
 
-## Takım Elemanları	ve Rolleri
+### Takım Elemanları	ve Rolleri
 
 Ertuğrul Şahintürk	- Product Owner/ Developer <br>
 Eren Kurman	- Scrum Master <br>
@@ -18,23 +18,23 @@ Gamze Karakaş	- Team Member/ Developer/ Level Designer <br>
 Gizem	Anbarcı - Team Member
 
 
-## Hedef Kitle
+### Hedef Kitle
 
 13 yaş ve üstü oyuncular <br>
 Araba Yarışı oyunu sevenler
 
 
-## Ürün İsmi
+### Ürün İsmi
 
 Drift
 
 
-## Ürün Açıklaması
+### Ürün Açıklaması
 
 Oyunumuz farklı low poly araçlarla yarış mekaniğinin birleştiği, farklı pistlerde gerçekleşen bir araba yarışı oyunudur.
 
 
-## Ürün Özellikleri
+### Ürün Özellikleri
 
 LowPoly araçlar, yapay zekaya karşı yarışmaktadır.
 
