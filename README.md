@@ -83,10 +83,13 @@ Oyun Ekran görüntüleri: <br>
 Oyunumuzun çalışır bir prototipini oluşturmayı başardık. <br>
 Bu prototipe kendi arabamızı kullanarak başladık, devamında bizimle yarışan arabaları da ekleyip ilk sprinte yetiştirmeyi başardık.
 
-### Tamamlanması Planlanan Puanlar
-
-
-### Puan Tamamlama Mantığı
+### Tamamlanması Planlanan Puanlar ve Bu Puanların Hangi Başlıklardan Geleceği Birinci Sprint İçin
+38 puan ve bu puanların açıklamaları; <br>
+ <br>
+Yarışmaya hazır, çalışan proje = 10 puan <br>
+Görsel bütünlük / Renk seçimleri  = 10 puan <br>
+Pazara uygun, talep görebilecek oyun = 10 puan <br>
+Oyun 3D = 8 puan <br>
 
 
 ## Sprint Review
