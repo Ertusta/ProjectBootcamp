@@ -79,6 +79,16 @@ Oyun Ekran görüntüleri: <br>
  <br>
  <br>
 
+## Sprint Notları
+Oyunumuzun çalışır bir prototipini oluşturmayı başardık. <br>
+Bu prototipe kendi arabamızı kullanarak başladık, devamında bizimle yarışan arabaları da ekleyip ilk sprinte yetiştirmeyi başardık.
+
+### Tamamlanması Planlanan Puanlar
+
+
+### Puan Tamamlama Mantığı
+
+
 ## Sprint Review
 
 
@@ -89,5 +99,5 @@ Oyun Ekran görüntüleri: <br>
 
 ### Sprint Retrospective
 
-*İlk sprintten sonra nelerin yanlış gittiği tartışılavak ve bu yanlışyarın doğruları nasıl olabilir belirlenecek. <br>
+*İlk sprintten sonra nelerin yanlış gittiği tartışılacak ve bu yanlışyarın doğruları nasıl olabilir belirlenecek. <br>
 
