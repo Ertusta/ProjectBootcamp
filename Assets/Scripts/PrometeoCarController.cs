@@ -11,6 +11,7 @@ something useful for your game. Best regards, Mena.
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -158,9 +159,18 @@ public class PrometeoCarController : MonoBehaviour
       WheelFrictionCurve RRwheelFriction;
       float RRWextremumSlip;
 
-    // Start is called before the first frame update
+   
+    private void Letgo()
+    {
+        move = true;
+    }
+    bool move = false;
+
+
     void Start()
     {
+        
+        Invoke("Letgo", 3);
       //In this part, we set the 'carRigidbody' value with the Rigidbody attached to this
       //gameObject. Also, we define the center of mass of the car with the Vector3 given
       //in the inspector.
@@ -327,21 +337,22 @@ public class PrometeoCarController : MonoBehaviour
 
       }else{
 
-        if(Input.GetKey(KeyCode.W)){
+        if(Input.GetKey(KeyCode.W)&&move){
           CancelInvoke("DecelerateCar");
           deceleratingCar = false;
           GoForward();
         }
-        if(Input.GetKey(KeyCode.S)){
+        if(Input.GetKey(KeyCode.S) && move)
+            {
           CancelInvoke("DecelerateCar");
           deceleratingCar = false;
           GoReverse();
         }
 
-        if(Input.GetKey(KeyCode.A)){
+        if(Input.GetKey(KeyCode.A) && move){
           TurnLeft();
         }
-        if(Input.GetKey(KeyCode.D)){
+        if(Input.GetKey(KeyCode.D) && move){
           TurnRight();
         }
         if(Input.GetKey(KeyCode.Space)){

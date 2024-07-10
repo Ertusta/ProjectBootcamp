@@ -15,29 +15,37 @@ public class NpcScript : MonoBehaviour
     {
         
         agent = GetComponent<NavMeshAgent>();
-        agent.SetDestination(WayPoint[number].position+new Vector3(Random.Range(-7,+7),0,0));
+        Invoke("Letgo", 3);
+        
+    }
+
+
+
+    private void Letgo()
+    {
+        agent.SetDestination(WayPoint[number].position + new Vector3(Random.Range(-7, +7), 0, 0));
         agent.speed = Random.Range(17, 23);
     }
-
-    void Update()
-    {
-
-    }
-
-
 
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("Waypoint")) {
 
-            if (number ==0|| number == 1 || number == 5) 
+            if (number==7)
+            {
+                number=0;
+                agent.SetDestination(WayPoint[number].position + new Vector3(Random.Range(-7, +7), 0, 0));
+                agent.speed = Random.Range(17, 23);
+
+            }
+            else if (number ==0|| number == 1 || number == 5) 
             {
                 number++;
                 agent.SetDestination(WayPoint[number].position + new Vector3(0, 0, Random.Range(-7, +7)));
                 agent.speed=Random.Range(17,23);
             }
-            else
+            else 
             {
                 number++;
                 agent.SetDestination(WayPoint[number].position + new Vector3(Random.Range(-7, +7), 0, 0));
