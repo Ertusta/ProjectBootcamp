@@ -2,34 +2,43 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CameraFollow : MonoBehaviour {
+public class CameraFollow : MonoBehaviour
+{
+    public float moveSmoothness;
+    public float rotSmoothness;
 
-	public Transform carTransform;
-	[Range(1, 10)]
-	public float followSpeed = 2;
-	[Range(1, 10)]
-	public float lookSpeed = 5;
-	Vector3 initialCameraPosition;
-	Vector3 initialCarPosition;
-	Vector3 absoluteInitCameraPosition;
+    public Vector3 moveOffset;
+    public Vector3 rotOffset;
 
-	void Start(){
-		initialCameraPosition = gameObject.transform.position;
-		initialCarPosition = carTransform.position;
-		absoluteInitCameraPosition = initialCameraPosition - initialCarPosition;
-	}
+    public Transform carTarget;
 
-	void FixedUpdate()
-	{
-		//Look at car
-		Vector3 _lookDirection = (new Vector3(carTransform.position.x, carTransform.position.y, carTransform.position.z)) - transform.position;
-		Quaternion _rot = Quaternion.LookRotation(_lookDirection, Vector3.up);
-		transform.rotation = Quaternion.Lerp(transform.rotation, _rot, lookSpeed * Time.deltaTime);
+    void FixedUpdate()
+    {
+        FollowTarget();
+    }
 
-		//Move to car
-		Vector3 _targetPos = absoluteInitCameraPosition + carTransform.transform.position;
-		transform.position = Vector3.Lerp(transform.position, _targetPos, followSpeed * Time.deltaTime);
+    void FollowTarget()
+    {
+        HandleMovement();
+        HandleRotation();
+    }
 
-	}
+    void HandleMovement()
+    {
+        Vector3 targetPos = new Vector3();
+        targetPos = carTarget.TransformPoint(moveOffset);
+
+        transform.position = Vector3.Lerp(transform.position, targetPos, moveSmoothness * Time.deltaTime);
+    }
+
+    void HandleRotation()
+    {
+        var direction = carTarget.position - transform.position;
+        var rotation = new Quaternion();
+
+        rotation = Quaternion.LookRotation(direction + rotOffset, Vector3.up);
+
+        transform.rotation = Quaternion.Lerp(transform.rotation, rotation, rotSmoothness * Time.deltaTime);
+    }
 
 }
