@@ -103,4 +103,18 @@ Oyun 3D = 8 puan <br>
 ### Sprint Retrospective
 
 *İlk sprintten sonra nelerin yanlış gittiği tartışılacak ve bu yanlışyarın doğruları nasıl olabilir belirlenecek. <br>
+<br>
+<br>
+
+
+## Sprint 2
+
+*Kamera kodu yazıldı. <br>
+*Araçların çarpışmaları kontrollü hale getirildi. <br>
+*Ana menü yapıldı. <br>
+*İlk pistin çevresi tamamlandı. <br>
+*Yarışı kazanma scripti tamamlandı. <br>
+*Tur sayacı hazırlandı.
+ <br>
+ <br>
 
