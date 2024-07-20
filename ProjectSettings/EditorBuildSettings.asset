@@ -8,5 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 37d538dc45b1c3846ac2e0cc941f1c78
+  - enabled: 1
+    path: Assets/Scenes/Gamze.unity
+    guid: ca19c41f6485e4a4e99a1e6ed380f771
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
