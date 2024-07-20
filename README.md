@@ -60,7 +60,8 @@ LowPoly araçlar, yapay zekaya karşı yarışmaktadır.
 *Ana menü yapıldı. <br>
 *İlk pistin çevresi tamamlandı. <br>
 *Yarışı kazanma scripti tamamlandı. <br>
-*Tur sayacı hazırlandı.
+*Tur sayacı hazırlandı. <br>
+*Oyuna ses eklendi.
  <br>
  <br>
 
@@ -72,12 +73,15 @@ Daily Scrum toplantılarının ve bütün sürecin discord üzerinden gerçekle�
 
 Discord Ekran görüntüleri: <br>
 
-![Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/01.png) <br>
-![İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/02.png) <br>
-![Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/03.png) <br>
-![Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/04.png) <br>
+![Birin Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/01.png) <br>
+![Birin İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/02.png) <br>
+![Birin Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/03.png) <br>
+![Birin Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/04.png) <br>
 <br>
-
+![İkinin Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/01.png) <br>
+![İkinin İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/02.png) <br>
+![İkinin Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/03.png) <br>
+![İkinin Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/04.png) <br>
 
 ### Ürün Durumu
 
@@ -85,12 +89,15 @@ Discord Ekran görüntüleri: <br>
 
 Oyun Ekran görüntüleri: <br>
 
-![Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/05.png) <br>
-![İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/06.png) <br>
-![Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/07.png) <br>
-![Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/08.png) <br>
+![Birin Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/05.png) <br>
+![Birin İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/06.png) <br>
+![Birin Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/07.png) <br>
+![Birin Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/08.png) <br>
  <br>
-
+![İkinin Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/05.png) <br>
+![İkinin İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/06.png) <br>
+![İkinin Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/07.png) <br>
+![İkinin Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/08.png) <br>
  <br>
  <br>
 
@@ -100,30 +107,32 @@ Oyunumuzun çalışır bir prototipini oluşturmayı başardık. <br>
 Bu prototipe kendi arabamızı kullanarak başladık, devamında bizimle yarışan arabaları da ekleyip ilk sprinte yetiştirmeyi başardık. <br>
  <br>
 İkinci Sprint İçin: <br>
+Kamerayı daha düzgün çalışır hale getirdik. <br>
+Pistin çevresini doldurarak atmossferi tamamlamaya çalıştık. <br>
+Oyuna sesi dahil ederek, oyuncuya daha iyi bir deneyim yaşatmayı hedefledik. <br>
 
 ### Tamamlanması Planlanan Puanlar ve Bu Puanların Hangi Başlıklardan Geleceği Birinci Sprint İçin
 İlk Sprint İçin: <br>
-38 puan ve bu puanların açıklamaları; <br>
+28 puan ve bu puanların açıklamaları; <br>
  <br>
 Yarışmaya hazır, çalışan proje = 10 puan <br>
-Görsel bütünlük / Renk seçimleri  = 10 puan <br>
 Pazara uygun, talep görebilecek oyun = 10 puan <br>
 Oyun 3D = 8 puan <br>
  <br>
 İkinci Sprint İçin: <br>
-38 puan ve bu puanların açıklamaları; <br>
+20 puan ve bu puanların açıklamaları; <br>
  <br>
-Yarışmaya hazır, çalışan proje = 10 puan <br>
+Oynama isteği = 10 puan <br>
 Görsel bütünlük / Renk seçimleri  = 10 puan <br>
-Pazara uygun, talep görebilecek oyun = 10 puan <br>
-Oyun 3D = 8 puan <br>
+<br>
+Birinci ve İkinci Sprint ile hedeflediğimiz toplam puan 28+20=48 <br>
 
 ## Sprint Review
 
 
 ### Alınan kararlar:
 
-*İlk sprintten sonra ikinci sprintin planlaması olacak. <br>
+*Son sprint için tamamlayabileceğimiz gerçekçi hedefler belirleyip ulaşabileceğimiz en yüksek puanı almaya karar verdik. <br>
 
 
 ### Sprint Retrospective
