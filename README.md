@@ -78,10 +78,9 @@ Discord Ekran görüntüleri: <br>
 ![Birin Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/03.png) <br>
 ![Birin Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/04.png) <br>
 <br>
-![İkinin Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/01.png) <br>
-![İkinin İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/02.png) <br>
-![İkinin Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/03.png) <br>
-![İkinin Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/04.png) <br>
+![İkinin Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/202.png) <br>
+![İkinin İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/203.png) <br>
+![İkinin Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/204.png) <br>
 
 ### Ürün Durumu
 
@@ -94,10 +93,10 @@ Oyun Ekran görüntüleri: <br>
 ![Birin Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/07.png) <br>
 ![Birin Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/08.png) <br>
  <br>
-![İkinin Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/05.png) <br>
-![İkinin İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/06.png) <br>
-![İkinin Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/07.png) <br>
-![İkinin Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/08.png) <br>
+![İkinin Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2011.png) <br>
+![İkinin İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2022.png) <br>
+![İkinin Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2033.png) <br>
+![İkinin Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2044.png) <br>
  <br>
  <br>
 
