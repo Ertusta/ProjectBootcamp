@@ -53,6 +53,17 @@ LowPoly araçlar, yapay zekaya karşı yarışmaktadır.
  <br>
  <br>
 
+## Sprint 2
+
+*Kamera kodu yazıldı. <br>
+*Araçların çarpışmaları kontrollü hale getirildi. <br>
+*Ana menü yapıldı. <br>
+*İlk pistin çevresi tamamlandı. <br>
+*Yarışı kazanma scripti tamamlandı. <br>
+*Tur sayacı hazırlandı.
+ <br>
+ <br>
+
 ## Takım İçi İletişim ve Çalışmalarımız
 
 ### Daily Scrum
@@ -65,6 +76,8 @@ Discord Ekran görüntüleri: <br>
 ![İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/02.png) <br>
 ![Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/03.png) <br>
 ![Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/04.png) <br>
+<br>
+
 
 ### Ürün Durumu
 
@@ -77,6 +90,8 @@ Oyun Ekran görüntüleri: <br>
 ![Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/07.png) <br>
 ![Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/08.png) <br>
  <br>
+
+ <br>
  <br>
 
 ## Sprint Notları
@@ -84,13 +99,21 @@ Oyunumuzun çalışır bir prototipini oluşturmayı başardık. <br>
 Bu prototipe kendi arabamızı kullanarak başladık, devamında bizimle yarışan arabaları da ekleyip ilk sprinte yetiştirmeyi başardık.
 
 ### Tamamlanması Planlanan Puanlar ve Bu Puanların Hangi Başlıklardan Geleceği Birinci Sprint İçin
+İlk Sprint İçin: <br>
 38 puan ve bu puanların açıklamaları; <br>
  <br>
 Yarışmaya hazır, çalışan proje = 10 puan <br>
 Görsel bütünlük / Renk seçimleri  = 10 puan <br>
 Pazara uygun, talep görebilecek oyun = 10 puan <br>
 Oyun 3D = 8 puan <br>
-
+ <br>
+İkinci Sprint İçin: <br>
+38 puan ve bu puanların açıklamaları; <br>
+ <br>
+Yarışmaya hazır, çalışan proje = 10 puan <br>
+Görsel bütünlük / Renk seçimleri  = 10 puan <br>
+Pazara uygun, talep görebilecek oyun = 10 puan <br>
+Oyun 3D = 8 puan <br>
 
 ## Sprint Review
 
@@ -102,19 +125,11 @@ Oyun 3D = 8 puan <br>
 
 ### Sprint Retrospective
 
-*İlk sprintten sonra nelerin yanlış gittiği tartışılacak ve bu yanlışyarın doğruları nasıl olabilir belirlenecek. <br>
+*İlk sprintten elde ettiğimiz deneyim, takımdaki bazı arkadaşlarımıza ulaşmakta çektiğimiz zorluktu.<br>
+*İkinci sprinte başlarken öncelikle bu arkadaşlarımızla iletişime geçip bu aksaklığı nasıl giderebileceğimiz hakkında görüştük ve çalışmaya dahil etmeye çalıştık. <br>
 <br>
 <br>
 
 
-## Sprint 2
 
-*Kamera kodu yazıldı. <br>
-*Araçların çarpışmaları kontrollü hale getirildi. <br>
-*Ana menü yapıldı. <br>
-*İlk pistin çevresi tamamlandı. <br>
-*Yarışı kazanma scripti tamamlandı. <br>
-*Tur sayacı hazırlandı.
- <br>
- <br>
 
