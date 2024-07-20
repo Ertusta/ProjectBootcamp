@@ -84,7 +84,7 @@ Discord Ekran görüntüleri: <br>
 
 ### Ürün Durumu
 
-[Oynanış Videosunu İzlemek İçin Tıklayınız](https://youtu.be/kRaW8A0Vtqs)
+[Oynanış Videosunu İzlemek İçin Tıklayınız](https://youtu.be/tpq6OtTcNpc)
 
 Oyun Ekran görüntüleri: <br>
 
