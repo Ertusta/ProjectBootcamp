@@ -95,8 +95,11 @@ Oyun Ekran görüntüleri: <br>
  <br>
 
 ## Sprint Notları
+İlk Sprint İçin: <br>
 Oyunumuzun çalışır bir prototipini oluşturmayı başardık. <br>
-Bu prototipe kendi arabamızı kullanarak başladık, devamında bizimle yarışan arabaları da ekleyip ilk sprinte yetiştirmeyi başardık.
+Bu prototipe kendi arabamızı kullanarak başladık, devamında bizimle yarışan arabaları da ekleyip ilk sprinte yetiştirmeyi başardık. <br>
+ <br>
+İkinci Sprint İçin: <br>
 
 ### Tamamlanması Planlanan Puanlar ve Bu Puanların Hangi Başlıklardan Geleceği Birinci Sprint İçin
 İlk Sprint İçin: <br>
