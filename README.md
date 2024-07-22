@@ -116,7 +116,7 @@ Oyuna sesi dahil ederek, oyuncuya daha iyi bir deneyim yaşatmayı hedefledik. <
 Oynama isteği = 10 puan <br>
 Görsel bütünlük / Renk seçimleri  = 10 puan <br>
 <br>
-
+## Sprint Review
 ### Alınan kararlar:
 
 *Son sprint için tamamlayabileceğimiz gerçekçi hedefler belirleyip ulaşabileceğimiz en yüksek puanı almaya karar verdik. <br>
