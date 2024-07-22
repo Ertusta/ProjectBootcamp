@@ -101,7 +101,11 @@ Discord Ekran görüntüleri: <br>
 ![İkinin Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2044.png) <br>
  <br>
  <br>
-
+ ##Board Görüntülerimiz
+ <br>
+ ![İkinin Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.1.png) <br>
+ ![İkinin İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.2.png) <br>
+ ![İkinin Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.3.png) <br>
 ## Sprint Notları
 
 Kamerayı daha düzgün çalışır hale getirdik. <br>
