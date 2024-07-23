@@ -33,6 +33,8 @@ LowPoly araçlar, yapay zekaya karşı yarışmaktadır.
  <br>
  <br>
 ## Takım İçi İletişim ve Çalışmalarımız
+### Sprint board update: Sprint board screenshotları: <br>
+![SprintBoard](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/board01ss.png) <br>
 ### Daily Scrum
 Daily Scrum toplantılarının ve bütün sürecin discord üzerinden gerçekleştirilmesine karar verilmiştir. <br>
 Discord Ekran görüntüleri: <br>
@@ -85,8 +87,9 @@ Oyun 3D = 8 puan <br>
  <br>
 
 ## Takım İçi İletişim ve Çalışmalarımız
-
-Discord Ekran görüntüleri: <br>
+### Sprint board update: Sprint board screenshotları: <br>
+![SprintBoard](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/board02ss.png) <br>
+### Discord Ekran görüntüleri: <br>
 ![İkinin Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/202.png) <br>
 ![İkinin İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/203.png) <br>
 ![İkinin Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/204.png) <br>
