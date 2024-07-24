@@ -9,6 +9,7 @@ public class MainCar : MonoBehaviour
     public int tour=1;
     public GameObject[] WayPoint;
     public TextMeshProUGUI Lap;
+    public TextMeshProUGUI finishOrder;
 
     private void OnTriggerEnter(Collider other)
     {
@@ -29,7 +30,8 @@ public class MainCar : MonoBehaviour
                 }
                 if(tour==4)
                 {
-                    Lap.text = "Bitti";
+                    Invoke("finish", 0.3f);
+                    
                 }
 
             }
@@ -42,4 +44,11 @@ public class MainCar : MonoBehaviour
 
         }
     }
+
+    void finish()
+    {
+        GameController.Instance.finish();
+
+    }
+ 
 }
