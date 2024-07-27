@@ -41,7 +41,7 @@ public class GameController : MonoBehaviour
     }
 
 
-    void Count()
+    public void Count()
     {
         lap = Carscript.tour;
         waypoint = Carscript.waypoint;
@@ -61,7 +61,6 @@ public class GameController : MonoBehaviour
             {
                 order++;
             }
-            
 
         }
         Counter.text="Sýralama:"+order.ToString();
@@ -72,7 +71,7 @@ public class GameController : MonoBehaviour
 
     public void finish()
     {
-        Time.timeScale = 0.1f;
+        Time.timeScale = 0f;
         FinishMenu.SetActive(true);
         FinishCounter.text = order + ".oldunuz";
         Invoke("menus", 0.5f);
@@ -83,8 +82,9 @@ public class GameController : MonoBehaviour
 
 
 
-   void menus()
+   public void menus()
     {
         SceneManager.LoadScene("MainMenu");
+        Time.timeScale = 1f;
     }
 }

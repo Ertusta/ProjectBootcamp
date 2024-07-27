@@ -15,6 +15,11 @@ public class MainMenu : MonoBehaviour
    {
     Application.Quit();
    }
+    public void RetunLobby()
+    {
+        SceneManager.LoadScene(0);
+        Time.timeScale = 1f;
+    }
 
 }
 
