@@ -1338,7 +1338,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 569039018}
         m_TargetAssemblyTypeName: CarSelection, Assembly-CSharp
-        m_MethodName: Race
+        m_MethodName: Race1Pist
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

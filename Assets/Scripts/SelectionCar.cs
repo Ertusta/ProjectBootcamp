@@ -68,7 +68,7 @@ public class CarSelection : MonoBehaviour
         PlayerPrefs.Save();
     }
 
-    public void Race()
+    public void Race1Pist()
     {
         GameObject muscle = GameObject.FindWithTag("MuscleCar");
         GameObject formula = GameObject.FindWithTag("FormulaCar");
@@ -79,6 +79,19 @@ public class CarSelection : MonoBehaviour
         else if (formula != null && formula.activeInHierarchy)
         {
             SceneManager.LoadSceneAsync(5);
+        }
+    }
+    public void Race2Pist()
+    {
+        GameObject muscle = GameObject.FindWithTag("MuscleCar");
+        GameObject formula = GameObject.FindWithTag("FormulaCar");
+        if (muscle != null && muscle.activeInHierarchy)
+        {
+            SceneManager.LoadSceneAsync(7);
+        }
+        else if (formula != null && formula.activeInHierarchy)
+        {
+            SceneManager.LoadSceneAsync(6);
         }
     }
 }
