@@ -71,8 +71,17 @@ public class MapManagment : MonoBehaviour
 
      public void ContinueGame()
    {
-    SceneManager.LoadSceneAsync(2);
-   }
+        GameObject pist1 = GameObject.FindWithTag("Pist1");
+        GameObject pist2 = GameObject.FindWithTag("Pist2");
+        if (pist1 != null && pist1.activeInHierarchy)
+        {
+            SceneManager.LoadSceneAsync(2);
+        }
+    else if (pist2 != null && pist2.activeInHierarchy)
+        {
+            SceneManager.LoadSceneAsync(3);
+        }
+    }
 
 }
 
