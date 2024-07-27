@@ -70,10 +70,20 @@ public class CarSelection : MonoBehaviour
 
     public void Race()
     {
-        SceneManager.LoadSceneAsync("Game");
+        GameObject muscle = GameObject.FindWithTag("MuscleCar");
+        GameObject formula = GameObject.FindWithTag("FormulaCar");
+        if (muscle != null && muscle.activeInHierarchy)
+        {
+            SceneManager.LoadSceneAsync(4);
+        }
+        else if (formula != null && formula.activeInHierarchy)
+        {
+            SceneManager.LoadSceneAsync(5);
+        }
     }
-
 }
+
+
 
 
 

@@ -8,6 +8,8 @@ TagManager:
   - Final
   - Pist1
   - Pist2
+  - MuscleCar
+  - FormulaCar
   layers:
   - Default
   - TransparentFX
