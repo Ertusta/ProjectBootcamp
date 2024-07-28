@@ -23,7 +23,7 @@ public class CarSelection : MonoBehaviour
  
     void Update()
     {
-        if(index>= 2)
+        if(index>= 1)
         {
             NextCar.interactable= false;
         }

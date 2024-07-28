@@ -24,7 +24,7 @@ public class MapManagment : MonoBehaviour
  
     void Update()
     {
-        if(index>= 2)
+        if(index>= 1)
         {
             NextMap.interactable= false;
         }
