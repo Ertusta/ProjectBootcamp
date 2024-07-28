@@ -46,15 +46,20 @@ public class MainCar : MonoBehaviour
     }
     void Update()
     {
-        GameObject checkpoint = GameObject.FindWithTag("Waypoint");
-        Vector3 checkpointPosition = checkpoint.transform.position;
-        if (waypoint >= 1)
+        if(waypoint >=1 || tour >1)
         {
             if (Input.GetKeyDown(KeyCode.R))
             {
-                gameObject.transform.position = checkpointPosition;
+                TeleportToLastWaypoint();
             }
         }
+        
+    }
+
+    void TeleportToLastWaypoint()
+    {
+        int lastWaypoint = waypoint == 0 ? WayPoint.Length - 1 : waypoint - 1;
+        transform.position = WayPoint[lastWaypoint].transform.position;
     }
     void finish()
     {
