@@ -37,20 +37,20 @@ public class NpcScript : MonoBehaviour
             {
                 Tour++;
                 number=0;
-                agent.SetDestination(WayPoint[number].position + new Vector3(Random.Range(-7, +7), 0, 0));
+                agent.SetDestination(WayPoint[number].position + new Vector3(Random.Range(-6, +6), 0, 0));
                 agent.speed = Random.Range(17, 23);
 
             }
             else if (number ==0|| number == 1 || number == 5) 
             {
                 number++;
-                agent.SetDestination(WayPoint[number].position + new Vector3(0, 0, Random.Range(-7, +7)));
+                agent.SetDestination(WayPoint[number].position + new Vector3(0, 0, Random.Range(-6, +6)));
                 agent.speed=Random.Range(17,23);
             }
             else 
             {
                 number++;
-                agent.SetDestination(WayPoint[number].position + new Vector3(Random.Range(-7, +7), 0, 0));
+                agent.SetDestination(WayPoint[number].position + new Vector3(Random.Range(-6, +6), 0, 0));
                 agent.speed = Random.Range(17, 23);
 
             }
