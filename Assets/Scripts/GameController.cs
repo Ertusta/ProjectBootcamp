@@ -63,7 +63,7 @@ public class GameController : MonoBehaviour
             }
 
         }
-        Counter.text="Sýralama:"+order.ToString();
+        Counter.text= "Position:" + order.ToString();
         order = 1;
     }
 
@@ -73,7 +73,7 @@ public class GameController : MonoBehaviour
     {
         Time.timeScale = 0f;
         FinishMenu.SetActive(true);
-        FinishCounter.text = order + ".oldunuz";
+        FinishCounter.text = "Position: " + order;
         Invoke("menus", 0.5f);
 
 
