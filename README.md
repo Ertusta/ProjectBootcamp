@@ -22,7 +22,7 @@ LowPoly araçlar, yapay zekaya karşı yarışmaktadır.
  <br>
  <br>
 <details>
-<summary>## Sprint 1</summary>
+<summary>Sprint 1</summary>
 *Discord üzerinden ilk toplantı yapıldı. <br>
 *Görev dağılımı ve yapılacak oyun belirlendi. <br>
 *Oyunun görsel tarzına karar verildi. <br>
@@ -76,7 +76,8 @@ Oyun 3D = 8 puan <br>
 *İlk sprintten sonra nelerin yanlış gittiği tartışılacak ve bu yanlışyarın doğruları nasıl olabilir belirlenecek. <br>
 
 </details>
-## Sprint 2
+<details>
+<summary>Sprint 2</summary>
 
 *Kamera kodu yazıldı. <br>
 *Araçların çarpışmaları kontrollü hale getirildi. <br>
@@ -135,3 +136,5 @@ Görsel bütünlük / Renk seçimleri  = 10 puan <br>
 *İkinci sprinte başlarken öncelikle bu arkadaşlarımızla iletişime geçip bu aksaklığı nasıl giderebileceğimiz hakkında görüştük ve çalışmaya dahil etmeye çalıştık. <br>
 <br>
 <br>
+
+</details>
