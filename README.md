@@ -22,7 +22,7 @@ LowPoly araçlar, yapay zekaya karşı yarışmaktadır.
  <br>
  <br>
 <details>
-<summary>## Sprint 1<summary>
+<summary>## Sprint 1</summary>
 *Discord üzerinden ilk toplantı yapıldı. <br>
 *Görev dağılımı ve yapılacak oyun belirlendi. <br>
 *Oyunun görsel tarzına karar verildi. <br>
