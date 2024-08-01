@@ -141,3 +141,68 @@ Görsel bütünlük / Renk seçimleri  = 10 puan <br>
 
 </details>
  <br>
+<details>
+<summary>Sprint 3</summary>
+ <br>
+*Sahneler arası geçiş tamamlandı. <br>
+*Araç ve harita seçme ekranları görselleştirildi. <br>
+*Yeni pist eklendi. <br>
+*Oyuncunun yarışı kaçıncı sırada tamamladığını görebilmesi sağlandı. <br>
+*Son checkpointe giden tuş atandı. <br>
+*Modellenmiş olan engellerin animasyonları da yapıldı. <br>
+*Engel sistemi oyundan çıkarıldı. <br>
+*UI düzenlendi. <br>
+*Hız göstergesi eklendi.
+ <br>
+ <br>
+
+## Takım İçi İletişim ve Çalışmalarımız
+### Sprint board update: Sprint board screenshotları: <br>
+![SprintBoard](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/board2ss.png) <br>
+### Discord Ekran görüntüleri: <br>
+![Üçün Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/202.png) <br>
+![Üçün İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/203.png) <br>
+![Üçün Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/204.png) <br>
+
+### Ürün Durumu
+
+[Oynanış Videosunu İzlemek İçin Tıklayınız](https://youtu.be/tpq6OtTcNpc)
+
+![Üçün Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2011.png) <br>
+![Üçün İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2022.png) <br>
+![Üçün Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2033.png) <br>
+![Üçün Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2044.png) <br>
+ <br>
+ <br>
+ ## Board Görüntülerimiz
+ 
+ ![Üçün Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.1.png) <br>
+ ![Üçün İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.2.png) <br>
+ ![Üçün Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.3.png) <br>
+## Sprint Notları
+
+Kamerayı daha düzgün çalışır hale getirdik. <br>
+Pistin çevresini doldurarak atmossferi tamamlamaya çalıştık. <br>
+Oyuna sesi dahil ederek, oyuncuya daha iyi bir deneyim yaşatmayı hedefledik. <br>
+
+
+### Tamamlanması Planlanan Puanlar ve Bu Puanların Hangi Başlıklardan Geleceği 
+
+20 puan ve bu puanların açıklamaları; <br>
+ <br>
+Oynama isteği = 10 puan <br>
+Görsel bütünlük / Renk seçimleri  = 10 puan <br>
+<br>
+## Sprint Review
+### Alınan kararlar:
+
+*Son sprint için tamamlayabileceğimiz gerçekçi hedefler belirleyip ulaşabileceğimiz en yüksek puanı almaya karar verdik. <br>
+
+### Sprint Retrospective
+
+*İkinci sprinte başlarken öncelikle bu arkadaşlarımızla iletişime geçip bu aksaklığı nasıl giderebileceğimiz hakkında görüştük ve çalışmaya dahil etmeye çalıştık. <br>
+<br>
+<br>
+
+</details>
+ <br>
