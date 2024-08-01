@@ -21,7 +21,8 @@ Oyunumuz farklı low poly araçlarla yarış mekaniğinin birleştiği, farklı 
 LowPoly araçlar, yapay zekaya karşı yarışmaktadır.
  <br>
  <br>
-## Sprint 1
+<details>
+<summary>## Sprint 1<summary>
 *Discord üzerinden ilk toplantı yapıldı. <br>
 *Görev dağılımı ve yapılacak oyun belirlendi. <br>
 *Oyunun görsel tarzına karar verildi. <br>
@@ -74,6 +75,7 @@ Oyun 3D = 8 puan <br>
 ### Sprint Retrospective
 *İlk sprintten sonra nelerin yanlış gittiği tartışılacak ve bu yanlışyarın doğruları nasıl olabilir belirlenecek. <br>
 
+</details>
 ## Sprint 2
 
 *Kamera kodu yazıldı. <br>
