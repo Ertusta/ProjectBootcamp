@@ -5,11 +5,11 @@ Takım - 25 "Drift"
 3D, LowPoly, Araba Yarışı <br>
 Windows(PC)
 ### Takım Elemanları	ve Rolleri
-Ertuğrul Şahintürk	- Product Owner/ Developer <br>
-Eren Kurman	- Scrum Master <br>
+Ertuğrul Şahintürk	- Product Owner/ Game Designer/ Developer <br>
+Eren Kurman	- Scrum Master/ 3D Artist/ Developer <br>
 Fazlı Kılıç	- Team Member/ Developer <br>
 Gamze Karakaş	- Team Member/ Developer/ Level Designer <br>
-Gizem	Anbarcı - Team Member
+Gizem	Anbarcı - Team Member/ UI Designer/ Developer
 ### Hedef Kitle
 13 yaş ve üstü oyuncular <br>
 Araba Yarışı oyunu sevenler
