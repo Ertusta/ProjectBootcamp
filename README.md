@@ -187,7 +187,7 @@ Görsel bütünlük / Renk seçimleri  = 10 puan <br>
 
 ## Takım İçi İletişim ve Çalışmalarımız
 ### Sprint board update: Sprint board screenshotları: <br>
-![SprintBoard](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/board3ss.png) <br>
+![SprintBoard](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/board03ss.png) <br>
 ### Discord Ekran görüntüleri: <br>
 ![Üçün Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/3001.png) <br>
 ![Üçün İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/3002.png) <br>
