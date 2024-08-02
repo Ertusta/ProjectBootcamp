@@ -210,9 +210,11 @@ Görsel bütünlük / Renk seçimleri  = 10 puan <br>
 
 ## Sprint Notları
 
-Kamerayı daha düzgün çalışır hale getirdik. <br>
-Pistin çevresini doldurarak atmossferi tamamlamaya çalıştık. <br>
-Oyuna sesi dahil ederek, oyuncuya daha iyi bir deneyim yaşatmayı hedefledik. <br>
+Sahneler arası geçişi hazırlayarak oyuncuya saçenekler sunduk. <br>
+Araba ve sahne seçme ekranları daha güzel hale getirerek oyuncunun oynumu isteğini arttıramyı hedefledik. <br>
+Yeni pistler ekleyarak oynanış heyecanını ve süresini arttırmayı hedefledik. <br>
+UI'ları düzenleyerek daha estetik bir görünüm sağlamaya çalıştık. <br>
+Hız göstergesi ekleyerek yarış hissini arttırmaya çabaladık. <br>
 
 
 ### Tamamlanması Planlanan Puanlar ve Bu Puanların Hangi Başlıklardan Geleceği 
