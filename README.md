@@ -190,13 +190,10 @@ Görsel bütünlük / Renk seçimleri  = 10 puan <br>
 ### Sprint board update: Sprint board screenshotları: <br>
 ![SprintBoard](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/board2ss.png) <br>
 ### Discord Ekran görüntüleri: <br>
-![Üçün Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/202.png) <br>
-![Üçün İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/203.png) <br>
-![Üçün Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/204.png) <br>
- 
- ![İkinin Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.1.png) <br>
- ![İkinin Beşinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.2.png) <br>
- ![İkinin Altıncı Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.3.png) <br>
+![Üçün Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/3001.png) <br>
+![Üçün İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/3002.png) <br>
+![Üçün Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/3003.png) <br>
+![İkinin Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/3004.png) <br>
 
 ### Ürün Durumu
 
