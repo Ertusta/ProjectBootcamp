@@ -196,7 +196,7 @@ Görsel bütünlük / Renk seçimleri  = 10 puan <br>
 
 ### Ürün Durumu
 
-[Oynanış Videosunu İzlemek İçin Tıklayınız](https://youtu.be/tpq6OtTcNpc)
+[Oynanış Videosunu İzlemek İçin Tıklayınız](https://youtu.be/nQVXm-Cwsaw)
 
 ![Üçün Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/301.png) <br>
 ![Üçün İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/302.png) <br>
