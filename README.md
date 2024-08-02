@@ -21,6 +21,16 @@ Oyunumuz farklı low poly araçlarla yarış mekaniğinin birleştiği, farklı 
 LowPoly araçlar, yapay zekaya karşı yarışmaktadır.
  <br>
  <br>
+
+
+
+
+
+
+
+
+
+
 <details>
 <summary>Sprint 1</summary>
  <br>
@@ -78,6 +88,16 @@ Oyun 3D = 8 puan <br>
 
 </details>
  <br>
+
+
+
+
+
+
+
+
+
+
 <details>
 <summary>Sprint 2</summary>
  <br>
@@ -141,6 +161,16 @@ Görsel bütünlük / Renk seçimleri  = 10 puan <br>
 
 </details>
  <br>
+
+
+
+
+
+
+
+
+
+
 <details>
 <summary>Sprint 3</summary>
  <br>
@@ -172,10 +202,12 @@ Görsel bütünlük / Renk seçimleri  = 10 puan <br>
 
 [Oynanış Videosunu İzlemek İçin Tıklayınız](https://youtu.be/tpq6OtTcNpc)
 
-![Üçün Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2011.png) <br>
-![Üçün İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2022.png) <br>
-![Üçün Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2033.png) <br>
-![Üçün Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2044.png) <br>
+![Üçün Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/301.png) <br>
+![Üçün İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/302.png) <br>
+![Üçün Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/303.png) <br>
+![Üçün Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/304.png) <br>
+![Üçün Beşinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/305.png) <br>
+![Üçün Altıncı Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/306.png) <br>
  <br>
  <br>
 
