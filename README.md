@@ -98,6 +98,10 @@ Oyun 3D = 8 puan <br>
 ![İkinin Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/202.png) <br>
 ![İkinin İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/203.png) <br>
 ![İkinin Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/204.png) <br>
+ 
+ ![İkinin Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.1.png) <br>
+ ![İkinin Beşinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.2.png) <br>
+ ![İkinin Altıncı Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.3.png) <br>
 
 ### Ürün Durumu
 
@@ -109,11 +113,7 @@ Oyun 3D = 8 puan <br>
 ![İkinin Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2044.png) <br>
  <br>
  <br>
- ## Board Görüntülerimiz
- 
- ![İkinin Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.1.png) <br>
- ![İkinin İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.2.png) <br>
- ![İkinin Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.3.png) <br>
+
 ## Sprint Notları
 
 Kamerayı daha düzgün çalışır hale getirdik. <br>
@@ -163,6 +163,10 @@ Görsel bütünlük / Renk seçimleri  = 10 puan <br>
 ![Üçün Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/202.png) <br>
 ![Üçün İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/203.png) <br>
 ![Üçün Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/204.png) <br>
+ 
+ ![İkinin Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.1.png) <br>
+ ![İkinin Beşinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.2.png) <br>
+ ![İkinin Altıncı Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.3.png) <br>
 
 ### Ürün Durumu
 
@@ -174,11 +178,7 @@ Görsel bütünlük / Renk seçimleri  = 10 puan <br>
 ![Üçün Dördüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2044.png) <br>
  <br>
  <br>
- ## Board Görüntülerimiz
- 
- ![Üçün Birinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.1.png) <br>
- ![Üçün İkinci Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.2.png) <br>
- ![Üçün Üçüncü Resim](https://github.com/Ertusta/ProjectBootcamp/blob/main/ExternalResources/2.3.png) <br>
+
 ## Sprint Notları
 
 Kamerayı daha düzgün çalışır hale getirdik. <br>
