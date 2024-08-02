@@ -225,11 +225,11 @@ Hız göstergesi ekleyerek yarış hissini arttırmaya çabaladık. <br>
 ## Sprint Review
 ### Alınan kararlar:
 
-*Son sprint için tamamlayabileceğimiz gerçekçi hedefler belirleyip ulaşabileceğimiz en yüksek puanı almaya karar verdik. <br>
+*Gelecek değerlendirmelerin sonuçlarına göre hareket etmeye karar verdik. <br>
 
 ### Sprint Retrospective
 
-*İkinci sprinte başlarken öncelikle bu arkadaşlarımızla iletişime geçip bu aksaklığı nasıl giderebileceğimiz hakkında görüştük ve çalışmaya dahil etmeye çalıştık. <br>
+*İlk değerlendirmelerden sonra gelecek sonuçlara göre hareket etmeyi kararlaştırdık. <br>
 <br>
 <br>
 
