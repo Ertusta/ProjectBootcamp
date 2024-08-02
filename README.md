@@ -75,7 +75,6 @@ Bu prototipe kendi arabamızı kullanarak başladık, devamında bizimle yarış
 38 puan ve bu puanların açıklamaları; <br>
  <br>
 Yarışmaya hazır, çalışan proje = 10 puan <br>
-Görsel bütünlük / Renk seçimleri  = 10 puan <br>
 Pazara uygun, talep görebilecek oyun = 10 puan <br>
 Oyun 3D = 8 puan <br>
 
@@ -219,10 +218,9 @@ Hız göstergesi ekleyerek yarış hissini arttırmaya çabaladık. <br>
 
 ### Tamamlanması Planlanan Puanlar ve Bu Puanların Hangi Başlıklardan Geleceği 
 
-20 puan ve bu puanların açıklamaları; <br>
+10 puan ve bu puanların açıklamaları; <br>
  <br>
-Oynama isteği = 10 puan <br>
-Görsel bütünlük / Renk seçimleri  = 10 puan <br>
+Ürün tamamlama puanı = 10 puan <br>
 <br>
 ## Sprint Review
 ### Alınan kararlar:
