@@ -218,9 +218,11 @@ Hız göstergesi ekleyerek yarış hissini arttırmaya çabaladık. <br>
 
 ### Tamamlanması Planlanan Puanlar ve Bu Puanların Hangi Başlıklardan Geleceği 
 
-10 puan ve bu puanların açıklamaları; <br>
+30 puan ve bu puanların açıklamaları; <br>
  <br>
 Ürün tamamlama puanı = 10 puan <br>
+Oyunun ticarileşme mekaniği doğru uygulanmış (pc için çalıştığımızdan reklam üzerine odaklanmadık) = 4 puan <br>
+Oyunun içerisinde yapay zeka destekli ögeler bulunuyor = 8 puan <br>
 <br>
 ## Sprint Review
 ### Alınan kararlar:
